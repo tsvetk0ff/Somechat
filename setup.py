@@ -5,7 +5,7 @@ setup(
     version='0.1.1',
     description='Simple messenger.',
     long_description='Somechat is a simple GUI & console messenger for Windows.',
-    url='https://github.com/tsvetk0ff/MessengerProject',
+    url='https://github.com/tsvetk0ff/Somechat',
     license='MIT',
     keywords=['python', 'messenger', 'Somechat'],
     author='Igor Tsvetkov',
